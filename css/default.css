@@ -35,7 +35,7 @@ body {
 }
 
 .container {
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(/1.jpg);
+	background: linear-gradient(rgba(90, 76, 76, 0.2), rgba(0, 0, 0, 0.2)), url(/1.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
