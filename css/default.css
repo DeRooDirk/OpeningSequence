@@ -38,10 +38,10 @@ body {
 
 .container {
 	background: linear-gradient(rgba(90, 76, 76, 0.2), rgba(0, 0, 0, 0.2)), url(/1.jpg);
-	background-position: 50% 50%;
+	
 	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover ;
+	background-position: center;
+	background-size: cover;
 	
 	height: 100vh;
 	width: 100%;
